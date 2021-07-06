@@ -25,6 +25,7 @@ public class Student {
 		stud.Age = 22;
 		System.out.println(stud.Roll_num);
 		System.out.println(stud.Age);
+		System.out.println("hi");
 
 	}
 
